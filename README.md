@@ -6,6 +6,4 @@ I'm an Rstats enthusiast learning ( & hoping 🙏) that the products I make are 
 
 My current focus is on [structurally guided sampling approaches](https://github.com/tgoodbody/sgsR) and the use of lidar data for resource management.
 
-Here is a picture of my dog kyra 🐶
-
-https://imgur.com/a/xHC7iaM
+[Here is a picture of my dog kyra 🐶](https://imgur.com/a/xHC7iaM)
