@@ -1,6 +1,6 @@
 ### Hello 🙂
 
-My name is Tristan and I'm currently a Forest Carbon and Remote Sensing Scientist at Renoster. I was previously a post-doc at the Integrated Remote Sensing Studio at the University of British Columbia.
+My name is Tristan and I'm currently a Senior Forest Carbon Geospatial Scientist at Carbon Direct. I was previously a post-doc at the Integrated Remote Sensing Studio at the University of British Columbia.
 
 I'm an Rstats enthusiast learning ( & hoping 🙏) that the products I make are useful! My research focuses on enhancing forest inventories using remote sensing data. 
 
